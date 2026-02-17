@@ -1,5 +1,9 @@
 # Better-Vivaldi-PnP
 
+> [!WARNING]
+> **ARCHIVED REPO**  
+> I archived this repo as I saw diminishing returns for the effort to keep this in sync with Foley's work versus the advancements and polish from Vivaldi's original PnP.
+
 This mod was originally made by Micky Foley.
 He first posted at [Vivaldi's forum](https://forum.vivaldi.net/topic/108624/a-user-friendly-enhancement-for-vivaldi-s-picture-in-picture-pip).
 
